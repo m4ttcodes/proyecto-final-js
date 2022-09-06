@@ -3,43 +3,43 @@
     "precio": 199990,
     "id": 1,
     "title": "CPU",
-    "thumbnailUrl": "../img/cpu.png"
+    "image": "../img/cpu.png"
   },
   {
     "precio": 99990,
     "id": 2,
     "title": "Motherboard",
-    "thumbnailUrl": "../img/motherboard.png"
+    "image": "../img/motherboard.png"
   },
   {
     "precio": 299990,
     "id": 3,
     "title": "GPU",
-    "thumbnailUrl": "../img/gpu.png"
+    "image": "../img/gpu.png"
   },
   {
     "precio": 89990,
     "id": 4,
     "title": "RAM",
-    "thumbnailUrl": "../img/ram.png"
+    "image": "../img/ram.png"
   },
   {
     "precio": 49990,
     "id": 5,
     "title": "Fuente de poder",
-    "thumbnailUrl": "../img/fuente.png"
+    "image": "../img/fuente.png"
   },
   {
     "precio": 49990,
     "id": 6,
     "title": "Gabinete",
-    "thumbnailUrl": "../img/gabinete.png"
+    "image": "../img/gabinete.png"
   },
   {
     "precio": 149990,
     "id": 7,
     "title": "SSD",
-    "thumbnailUrl": "../img/ssd.png"
+    "image": "../img/ssd.png"
   }
   
 ]
